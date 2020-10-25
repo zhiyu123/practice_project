@@ -1,0 +1,2 @@
+D:\VS2019 project\Project13\Debug\Project13.exe
+D:\VS2019 project\Project13\Debug\Project13.pdb
